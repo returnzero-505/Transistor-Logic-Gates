@@ -1,1 +1,1 @@
-# Discrete-Logic-Gates-in-Electronics
+# Transistor Logic Gates
